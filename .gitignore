@@ -155,3 +155,6 @@ instance/
 *.pyc
 *.pyo
 *.pyd
+
+# Exclude Python virtual environments
+venv/
